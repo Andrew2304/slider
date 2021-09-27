@@ -1,0 +1,43 @@
+.content {
+    display: block;
+}
+.content-0 {
+    max-width: 1500px;
+    overflow: hidden;
+}
+.content-1 {
+    max-width: 1500px;
+    overflow: hidden;
+}
+.hidden {
+    display: none;
+}
+.item {
+    float: left;
+    /* width: 10%; */
+    /* height: 400px; */
+    /* background-color: #eee; */
+    border: 1px solid #fff;
+    padding: 10px;
+}
+.item.active {
+    border: 5px solid rgb(48, 14, 173);
+}
+img {
+    width: 100%;
+    height: 100%;
+}
+
+.layout-type-3{
+    height: 400px;
+}
+.layout-type-4{
+    height: 200px;
+}
+
+.div-5 {
+    width: 18%;
+}
+.div-7 {
+    width: 12%;
+}
