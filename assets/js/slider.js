@@ -119,6 +119,7 @@ const Slider = {
     },
     getUrlImages: (urlImages = []) => {
         urlImages.map((url) => {
+            console.log('url', url);
             fetch(url);
         })
     },

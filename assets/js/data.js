@@ -12,7 +12,7 @@ const sampleData = [
                 CONTENT_ID: "136822",
                 CONTENT_TITLE: "Móc Câu",
                 CONTENT_IMAGE_URL:
-                    "http://s7769.cdn.mytvnet.vn/vimages/310x465/0b/b4/4c/cb/bd/d6/0b4cb-pmccu-content-mytv.jpg",
+                    "https://s7769.cdn.mytvnet.vn/vimages/310x465/0b/b4/4c/cb/bd/d6/0b4cb-pmccu-content-mytv.jpg",
                 TYPE_ID: "2",
                 TYPE_GROUP: 2,
                 RECOMMENDATION: 0,
@@ -23,7 +23,7 @@ const sampleData = [
                 CONTENT_ID: "136708",
                 CONTENT_TITLE: "Người Đàn Ông Của Gia Đình",
                 CONTENT_IMAGE_URL:
-                    "http://s7769.cdn.mytvnet.vn/vimages/310x465/5d/dd/d6/6b/b4/4b/5dd6b-pnginngcagianh-content-mytv.jpg",
+                    "https://s7769.cdn.mytvnet.vn/vimages/310x465/5d/dd/d6/6b/b4/4b/5dd6b-pnginngcagianh-content-mytv.jpg",
                 TYPE_ID: "2",
                 TYPE_GROUP: 2,
                 RECOMMENDATION: 0,
@@ -34,7 +34,7 @@ const sampleData = [
                 CONTENT_ID: "128585",
                 CONTENT_TITLE: "Lâu Đài Tham Vọng",
                 CONTENT_IMAGE_URL:
-                    "http://s7769.cdn.mytvnet.vn/vimages/310x465/cf/fc/c7/75/53/37/cfc75-plauaithamvong-content-mytv.jpg",
+                    "https://s7769.cdn.mytvnet.vn/vimages/310x465/cf/fc/c7/75/53/37/cfc75-plauaithamvong-content-mytv.jpg",
                 TYPE_ID: "2",
                 TYPE_GROUP: 2,
                 RECOMMENDATION: 0,
@@ -45,7 +45,7 @@ const sampleData = [
                 CONTENT_ID: "136824",
                 CONTENT_TITLE: "Ngày May Mắn",
                 CONTENT_IMAGE_URL:
-                    "http://s7769.cdn.mytvnet.vn/vimages/310x465/c5/5b/b0/00/00/04/c5b00-pngymaymn-content-mytv.jpg",
+                    "https://s7769.cdn.mytvnet.vn/vimages/310x465/c5/5b/b0/00/00/04/c5b00-pngymaymn-content-mytv.jpg",
                 TYPE_ID: "2",
                 TYPE_GROUP: 2,
                 RECOMMENDATION: 0,
@@ -56,7 +56,7 @@ const sampleData = [
                 CONTENT_ID: "132549",
                 CONTENT_TITLE: "Tây Du Ký 3: Nữ Nhi Quốc",
                 CONTENT_IMAGE_URL:
-                    "http://s7769.cdn.mytvnet.vn/vimages/310x465/fe/e9/9c/c3/3d/de/fe9c3-ptayduky3nunhiquoc-content-mytv.jpg",
+                    "https://s7769.cdn.mytvnet.vn/vimages/310x465/fe/e9/9c/c3/3d/de/fe9c3-ptayduky3nunhiquoc-content-mytv.jpg",
                 TYPE_ID: "2",
                 TYPE_GROUP: 2,
                 RECOMMENDATION: 1,
@@ -67,7 +67,7 @@ const sampleData = [
                 CONTENT_ID: "132543",
                 CONTENT_TITLE: "Mật Danh K2",
                 CONTENT_IMAGE_URL:
-                    "http://s7769.cdn.mytvnet.vn/vimages/310x465/71/1e/ed/dd/dc/cf/71edd-pmatdanhk2-content-mytv.jpg",
+                    "https://s7769.cdn.mytvnet.vn/vimages/310x465/71/1e/ed/dd/dc/cf/71edd-pmatdanhk2-content-mytv.jpg",
                 TYPE_ID: "2",
                 TYPE_GROUP: 2,
                 RECOMMENDATION: 1,
@@ -78,7 +78,7 @@ const sampleData = [
                 CONTENT_ID: "132345",
                 CONTENT_TITLE: "Kim Ngọc Lương Duyên",
                 CONTENT_IMAGE_URL:
-                    "http://s7769.cdn.mytvnet.vn/vimages/310x465/eb/b6/62/20/04/47/eb620-pkimngocluongduyen-content-mytv.jpg",
+                    "https://s7769.cdn.mytvnet.vn/vimages/310x465/eb/b6/62/20/04/47/eb620-pkimngocluongduyen-content-mytv.jpg",
                 TYPE_ID: "2",
                 TYPE_GROUP: 2,
                 RECOMMENDATION: 1,
@@ -89,7 +89,7 @@ const sampleData = [
                 CONTENT_ID: "132581",
                 CONTENT_TITLE: "Chuyến Bay Sinh Tử",
                 CONTENT_IMAGE_URL:
-                    "http://s7769.cdn.mytvnet.vn/vimages/310x465/e7/74/48/8d/d6/68/e748d-pchuyenbaysinhtu-content-mytv.jpg",
+                    "https://s7769.cdn.mytvnet.vn/vimages/310x465/e7/74/48/8d/d6/68/e748d-pchuyenbaysinhtu-content-mytv.jpg",
                 TYPE_ID: "2",
                 TYPE_GROUP: 2,
                 RECOMMENDATION: 1,
@@ -100,7 +100,7 @@ const sampleData = [
                 CONTENT_ID: "132551",
                 CONTENT_TITLE: "Chuyến Tàu Sinh Tử",
                 CONTENT_IMAGE_URL:
-                    "http://s7769.cdn.mytvnet.vn/vimages/310x465/93/3e/e7/78/84/43/93e78-pchuyentausinhtu-content-mytv.jpg",
+                    "https://s7769.cdn.mytvnet.vn/vimages/310x465/93/3e/e7/78/84/43/93e78-pchuyentausinhtu-content-mytv.jpg",
                 TYPE_ID: "2",
                 TYPE_GROUP: 2,
                 RECOMMENDATION: 1,
@@ -111,7 +111,7 @@ const sampleData = [
                 CONTENT_ID: "132607",
                 CONTENT_TITLE: "Cương Thi Ân Oán Truyền Kiếp",
                 CONTENT_IMAGE_URL:
-                    "http://s7769.cdn.mytvnet.vn/vimages/310x465/88/85/53/30/08/80/88530-pcuongthianoantruyenkiep-content-mytv.jpg",
+                    "https://s7769.cdn.mytvnet.vn/vimages/310x465/88/85/53/30/08/80/88530-pcuongthianoantruyenkiep-content-mytv.jpg",
                 TYPE_ID: "2",
                 TYPE_GROUP: 2,
                 RECOMMENDATION: 1,
@@ -122,7 +122,7 @@ const sampleData = [
                 CONTENT_ID: "132579",
                 CONTENT_TITLE: "Long Ấn Cơ Mật",
                 CONTENT_IMAGE_URL:
-                    "http://s7769.cdn.mytvnet.vn/vimages/310x465/52/2f/f9/90/0e/ea/52f90-plongancomat-content-mytv.jpg",
+                    "https://s7769.cdn.mytvnet.vn/vimages/310x465/52/2f/f9/90/0e/ea/52f90-plongancomat-content-mytv.jpg",
                 TYPE_ID: "2",
                 TYPE_GROUP: 2,
                 RECOMMENDATION: 1,
@@ -134,7 +134,7 @@ const sampleData = [
                 CONTENT_TITLE:
                     "Tam Sinh Tam Thế Thần Tịch Duyên (Tình Yêu Và Định Mệnh)",
                 CONTENT_IMAGE_URL:
-                    "http://s7769.cdn.mytvnet.vn/vimages/310x465/e8/84/40/0d/d3/3e/e840d-ptamsinhtamthethantichduyentinhyeuvainhmenh-content-mytv.jpg",
+                    "https://s7769.cdn.mytvnet.vn/vimages/310x465/e8/84/40/0d/d3/3e/e840d-ptamsinhtamthethantichduyentinhyeuvainhmenh-content-mytv.jpg",
                 TYPE_ID: "2",
                 TYPE_GROUP: 2,
                 RECOMMENDATION: 1,
@@ -156,7 +156,7 @@ const sampleData = [
                 CONTENT_ID: "136495",
                 CONTENT_TITLE: "Thiên Cơ Chi Cửu U Nghiệp Hỏa",
                 CONTENT_IMAGE_URL:
-                    "http://s7769.cdn.mytvnet.vn/vimages/310x465/b1/1e/ee/e7/7a/a1/b1ee7-pthincchicuunghipha-content-mytv.jpg",
+                    "https://s7769.cdn.mytvnet.vn/vimages/310x465/b1/1e/ee/e7/7a/a1/b1ee7-pthincchicuunghipha-content-mytv.jpg",
                 TYPE_ID: "2",
                 TYPE_GROUP: 2,
                 RECOMMENDATION: 0,
@@ -167,7 +167,7 @@ const sampleData = [
                 CONTENT_ID: "127009",
                 CONTENT_TITLE: "Ba Chàng Lính Ngự Lâm",
                 CONTENT_IMAGE_URL:
-                    "http://s7769.cdn.mytvnet.vn/vimages/310x465/ff/fe/ea/a1/1c/c3/ffea1-pbachanglinhngulam-movies-mytv.jpg",
+                    "https://s7769.cdn.mytvnet.vn/vimages/310x465/ff/fe/ea/a1/1c/c3/ffea1-pbachanglinhngulam-movies-mytv.jpg",
                 TYPE_ID: "20",
                 TYPE_GROUP: 2,
                 RECOMMENDATION: 0,
@@ -178,7 +178,7 @@ const sampleData = [
                 CONTENT_ID: "136720",
                 CONTENT_TITLE: "Tiếng Thét 4",
                 CONTENT_IMAGE_URL:
-                    "http://s7769.cdn.mytvnet.vn/vimages/310x465/85/53/32/25/51/1d/85325-ptingtht4-content-mytv.jpg",
+                    "https://s7769.cdn.mytvnet.vn/vimages/310x465/85/53/32/25/51/1d/85325-ptingtht4-content-mytv.jpg",
                 TYPE_ID: "20",
                 TYPE_GROUP: 2,
                 RECOMMENDATION: 0,
@@ -189,7 +189,7 @@ const sampleData = [
                 CONTENT_ID: "135649",
                 CONTENT_TITLE: "SỤP ĐỔ S1",
                 CONTENT_IMAGE_URL:
-                    "http://s7769.cdn.mytvnet.vn/vimages/310x465/be/ef/fc/c0/09/99/befc0-psps1-content-mytv.jpg",
+                    "https://s7769.cdn.mytvnet.vn/vimages/310x465/be/ef/fc/c0/09/99/befc0-psps1-content-mytv.jpg",
                 TYPE_ID: "21",
                 TYPE_GROUP: 2,
                 RECOMMENDATION: 0,
@@ -200,7 +200,7 @@ const sampleData = [
                 CONTENT_ID: "123632",
                 CONTENT_TITLE: "Trả Thù Tàn Khốc",
                 CONTENT_IMAGE_URL:
-                    "http://s7769.cdn.mytvnet.vn/vimages/310x465/61/1c/c4/4d/d6/6c/61c4d-ptrathutankhoc-movies-mytv.jpg",
+                    "https://s7769.cdn.mytvnet.vn/vimages/310x465/61/1c/c4/4d/d6/6c/61c4d-ptrathutankhoc-movies-mytv.jpg",
                 TYPE_ID: "20",
                 TYPE_GROUP: 2,
                 RECOMMENDATION: 0,
@@ -211,7 +211,7 @@ const sampleData = [
                 CONTENT_ID: "128175",
                 CONTENT_TITLE: "Trạng Quỳnh",
                 CONTENT_IMAGE_URL:
-                    "http://s7769.cdn.mytvnet.vn/vimages/310x465/83/3f/fa/af/f3/36/83faf-ptrangquynh-movies-mytv.jpg",
+                    "https://s7769.cdn.mytvnet.vn/vimages/310x465/83/3f/fa/af/f3/36/83faf-ptrangquynh-movies-mytv.jpg",
                 TYPE_ID: "20",
                 TYPE_GROUP: 2,
                 RECOMMENDATION: 0,
@@ -222,7 +222,7 @@ const sampleData = [
                 CONTENT_ID: "128175",
                 CONTENT_TITLE: "Trạng Quỳnh",
                 CONTENT_IMAGE_URL:
-                    "http://s7769.cdn.mytvnet.vn/vimages/310x465/83/3f/fa/af/f3/36/83faf-ptrangquynh-movies-mytv.jpg",
+                    "https://s7769.cdn.mytvnet.vn/vimages/310x465/83/3f/fa/af/f3/36/83faf-ptrangquynh-movies-mytv.jpg",
                 TYPE_ID: "20",
                 TYPE_GROUP: 2,
                 RECOMMENDATION: 0,
@@ -244,7 +244,7 @@ const sampleData = [
                 CONTENT_ID: "131555",
                 CONTENT_TITLE: "LÂNG LÂNG S1",
                 CONTENT_IMAGE_URL:
-                    "http://s7769.cdn.mytvnet.vn/vimages/310x465/4d/d9/91/14/4e/ed/4d914-planglangs1-content-mytv.jpg",
+                    "https://s7769.cdn.mytvnet.vn/vimages/310x465/4d/d9/91/14/4e/ed/4d914-planglangs1-content-mytv.jpg",
                 TYPE_ID: "21",
                 TYPE_GROUP: 2,
                 RECOMMENDATION: 0,
@@ -255,7 +255,7 @@ const sampleData = [
                 CONTENT_ID: "135649",
                 CONTENT_TITLE: "SỤP ĐỔ S1",
                 CONTENT_IMAGE_URL:
-                    "http://s7769.cdn.mytvnet.vn/vimages/310x465/be/ef/fc/c0/09/99/befc0-psps1-content-mytv.jpg",
+                    "https://s7769.cdn.mytvnet.vn/vimages/310x465/be/ef/fc/c0/09/99/befc0-psps1-content-mytv.jpg",
                 TYPE_ID: "21",
                 TYPE_GROUP: 2,
                 RECOMMENDATION: 0,
@@ -266,7 +266,7 @@ const sampleData = [
                 CONTENT_ID: "136840",
                 CONTENT_TITLE: "ALLEN VÀ FARROW",
                 CONTENT_IMAGE_URL:
-                    "http://s7769.cdn.mytvnet.vn/vimages/310x465/9b/be/e5/52/20/01/9be52-pallenvfarrow-content-mytv.jpg",
+                    "https://s7769.cdn.mytvnet.vn/vimages/310x465/9b/be/e5/52/20/01/9be52-pallenvfarrow-content-mytv.jpg",
                 TYPE_ID: "21",
                 TYPE_GROUP: 2,
                 RECOMMENDATION: 0,
@@ -277,7 +277,7 @@ const sampleData = [
                 CONTENT_ID: "136831",
                 CONTENT_TITLE: "LIÊN MINH CÔNG LÍ QUÂN ĐOÀN ĐỊA NGỤC",
                 CONTENT_IMAGE_URL:
-                    "http://s7769.cdn.mytvnet.vn/vimages/310x465/c8/8d/dc/ca/ac/cc/c8dca-plinminhcnglqunonangc-content-mytv.jpg",
+                    "https://s7769.cdn.mytvnet.vn/vimages/310x465/c8/8d/dc/ca/ac/cc/c8dca-plinminhcnglqunonangc-content-mytv.jpg",
                 TYPE_ID: "21",
                 TYPE_GROUP: 2,
                 RECOMMENDATION: 0,
@@ -288,7 +288,7 @@ const sampleData = [
                 CONTENT_ID: "136834",
                 CONTENT_TITLE: "LIÊN MINH CÔNG LÝ: CHIẾN TRANH",
                 CONTENT_IMAGE_URL:
-                    "http://s7769.cdn.mytvnet.vn/vimages/310x465/ab/b3/3a/a9/90/07/ab3a9-plinminhcnglchintranh-content-mytv.jpg",
+                    "https://s7769.cdn.mytvnet.vn/vimages/310x465/ab/b3/3a/a9/90/07/ab3a9-plinminhcnglchintranh-content-mytv.jpg",
                 TYPE_ID: "21",
                 TYPE_GROUP: 2,
                 RECOMMENDATION: 0,
@@ -299,7 +299,7 @@ const sampleData = [
                 CONTENT_ID: "136832",
                 CONTENT_TITLE: "LIÊN MINH CÔNG LÝ: NGHỊCH LÝ TIA CHỚP",
                 CONTENT_IMAGE_URL:
-                    "http://s7769.cdn.mytvnet.vn/vimages/310x465/aa/aa/a1/13/38/8d/aaa13-plinminhcnglnghchltiachp-content-mytv.jpg",
+                    "https://s7769.cdn.mytvnet.vn/vimages/310x465/aa/aa/a1/13/38/8d/aaa13-plinminhcnglnghchltiachp-content-mytv.jpg",
                 TYPE_ID: "21",
                 TYPE_GROUP: 2,
                 RECOMMENDATION: 0,
@@ -310,7 +310,7 @@ const sampleData = [
                 CONTENT_ID: "136836",
                 CONTENT_TITLE: "LIÊN MINH CÔNG LÝ: KHỦNG HOẢNG Ở 2 TRÁI ĐẤT",
                 CONTENT_IMAGE_URL:
-                    "http://s7769.cdn.mytvnet.vn/vimages/310x465/1c/cb/b4/4c/c7/72/1cb4c-plinminhcnglkhnghong2trit-content-mytv.jpg",
+                    "https://s7769.cdn.mytvnet.vn/vimages/310x465/1c/cb/b4/4c/c7/72/1cb4c-plinminhcnglkhnghong2trit-content-mytv.jpg",
                 TYPE_ID: "21",
                 TYPE_GROUP: 2,
                 RECOMMENDATION: 0,
@@ -321,7 +321,7 @@ const sampleData = [
                 CONTENT_ID: "136838",
                 CONTENT_TITLE: "BIỆT ĐỘI CẢM TỬ",
                 CONTENT_IMAGE_URL:
-                    "http://s7769.cdn.mytvnet.vn/vimages/310x465/c4/42/28/84/45/56/c4284-pbiticmt-content-mytv.jpg",
+                    "https://s7769.cdn.mytvnet.vn/vimages/310x465/c4/42/28/84/45/56/c4284-pbiticmt-content-mytv.jpg",
                 TYPE_ID: "21",
                 TYPE_GROUP: 2,
                 RECOMMENDATION: 0,
@@ -332,7 +332,7 @@ const sampleData = [
                 CONTENT_ID: "136839",
                 CONTENT_TITLE: "NỮ THẦN CHIẾN BINH",
                 CONTENT_IMAGE_URL:
-                    "http://s7769.cdn.mytvnet.vn/vimages/310x465/52/26/6a/af/f4/42/526af-pnthnchinbinh-content-mytv.jpg",
+                    "https://s7769.cdn.mytvnet.vn/vimages/310x465/52/26/6a/af/f4/42/526af-pnthnchinbinh-content-mytv.jpg",
                 TYPE_ID: "21",
                 TYPE_GROUP: 2,
                 RECOMMENDATION: 0,
@@ -343,7 +343,7 @@ const sampleData = [
                 CONTENT_ID: "134505",
                 CONTENT_TITLE: "NHẢY MÚA TỰ DO",
                 CONTENT_IMAGE_URL:
-                    "http://s7769.cdn.mytvnet.vn/vimages/310x465/ec/cd/df/ff/fe/e3/ecdff-pnhymatdo-content-mytv.jpg",
+                    "https://s7769.cdn.mytvnet.vn/vimages/310x465/ec/cd/df/ff/fe/e3/ecdff-pnhymatdo-content-mytv.jpg",
                 TYPE_ID: "21",
                 TYPE_GROUP: 2,
                 RECOMMENDATION: 0,
@@ -354,7 +354,7 @@ const sampleData = [
                 CONTENT_ID: "134273",
                 CONTENT_TITLE: "AI ĐÃ SÁT HẠI GARRETT PHILLIPS? PHẦN 2",
                 CONTENT_IMAGE_URL:
-                    "http://s7769.cdn.mytvnet.vn/vimages/310x465/3b/bc/c7/75/5a/a5/3bc75-paisthigarrettphillipsphn2-content-mytv.jpg",
+                    "https://s7769.cdn.mytvnet.vn/vimages/310x465/3b/bc/c7/75/5a/a5/3bc75-paisthigarrettphillipsphn2-content-mytv.jpg",
                 TYPE_ID: "21",
                 TYPE_GROUP: 2,
                 RECOMMENDATION: 0,
@@ -365,7 +365,7 @@ const sampleData = [
                 CONTENT_ID: "134637",
                 CONTENT_TITLE: "THỜI ĐẠI CỦA CÁC SIÊU NHÂN",
                 CONTENT_IMAGE_URL:
-                    "http://s7769.cdn.mytvnet.vn/vimages/310x465/c5/5e/e5/59/91/1a/c5e59-pthiicaccsiunhn-content-mytv.jpg",
+                    "https://s7769.cdn.mytvnet.vn/vimages/310x465/c5/5e/e5/59/91/1a/c5e59-pthiicaccsiunhn-content-mytv.jpg",
                 TYPE_ID: "21",
                 TYPE_GROUP: 2,
                 RECOMMENDATION: 0,
@@ -387,7 +387,7 @@ const sampleData = [
                 CONTENT_ID: "123973",
                 CONTENT_TITLE: "Chạy Đi Rồi Tính",
                 CONTENT_IMAGE_URL:
-                    "http://s7769.cdn.mytvnet.vn/vimages/310x465/c6/60/03/3a/a9/97/c603a-pchayiroitinh-movies-mytv.jpg",
+                    "https://s7769.cdn.mytvnet.vn/vimages/310x465/c6/60/03/3a/a9/97/c603a-pchayiroitinh-movies-mytv.jpg",
                 TYPE_ID: "20",
                 TYPE_GROUP: 2,
                 RECOMMENDATION: 0,
@@ -398,7 +398,7 @@ const sampleData = [
                 CONTENT_ID: "125257",
                 CONTENT_TITLE: "Thám Tử Conan: Mắt Ngầm Trên Biển",
                 CONTENT_IMAGE_URL:
-                    "http://s7769.cdn.mytvnet.vn/vimages/310x465/6c/c2/2f/f1/1f/f7/6c2f1-pthamtuconanmatngamtrenbien-movies-mytv.jpg",
+                    "https://s7769.cdn.mytvnet.vn/vimages/310x465/6c/c2/2f/f1/1f/f7/6c2f1-pthamtuconanmatngamtrenbien-movies-mytv.jpg",
                 TYPE_ID: "20",
                 TYPE_GROUP: 2,
                 RECOMMENDATION: 0,
@@ -409,7 +409,7 @@ const sampleData = [
                 CONTENT_ID: "135915",
                 CONTENT_TITLE: "Tình Đầu Thơ Ngây",
                 CONTENT_IMAGE_URL:
-                    "http://s7769.cdn.mytvnet.vn/vimages/310x465/46/6a/a2/29/90/0c/46a29-ptnhuthngy-content-mytv.jpg",
+                    "https://s7769.cdn.mytvnet.vn/vimages/310x465/46/6a/a2/29/90/0c/46a29-ptnhuthngy-content-mytv.jpg",
                 TYPE_ID: "20",
                 TYPE_GROUP: 2,
                 RECOMMENDATION: 0,
@@ -420,7 +420,7 @@ const sampleData = [
                 CONTENT_ID: "12425",
                 CONTENT_TITLE: "Cao Bồi Và Người Ngoài Hành Tinh",
                 CONTENT_IMAGE_URL:
-                    "http://s7769.cdn.mytvnet.vn/vimages/310x465/bb/b3/39/93/3f/f8/bb393-pcaoboivanguoingoaihanhtinh-movies-mytv.jpg",
+                    "https://s7769.cdn.mytvnet.vn/vimages/310x465/bb/b3/39/93/3f/f8/bb393-pcaoboivanguoingoaihanhtinh-movies-mytv.jpg",
                 TYPE_ID: "20",
                 TYPE_GROUP: 2,
                 RECOMMENDATION: 0,
@@ -431,7 +431,7 @@ const sampleData = [
                 CONTENT_ID: "124241",
                 CONTENT_TITLE: "Thiên Mệnh",
                 CONTENT_IMAGE_URL:
-                    "http://s7769.cdn.mytvnet.vn/vimages/310x465/b9/9d/da/ab/b1/12/b9dab-pthienmenh-movies-mytv.jpg",
+                    "https://s7769.cdn.mytvnet.vn/vimages/310x465/b9/9d/da/ab/b1/12/b9dab-pthienmenh-movies-mytv.jpg",
                 TYPE_ID: "20",
                 TYPE_GROUP: 2,
                 RECOMMENDATION: 0,
@@ -442,7 +442,7 @@ const sampleData = [
                 CONTENT_ID: "12453",
                 CONTENT_TITLE: "Biệt Đội G.I.Joe: Cuộc Chiến Mãng Xà",
                 CONTENT_IMAGE_URL:
-                    "http://s7769.cdn.mytvnet.vn/vimages/310x465/a5/5d/dc/c1/1d/da/a5dc1-pbietoig.i.joecuocchienmangxa-movies-mytv.jpg",
+                    "https://s7769.cdn.mytvnet.vn/vimages/310x465/a5/5d/dc/c1/1d/da/a5dc1-pbietoig.i.joecuocchienmangxa-movies-mytv.jpg",
                 TYPE_ID: "20",
                 TYPE_GROUP: 2,
                 RECOMMENDATION: 0,
@@ -453,7 +453,7 @@ const sampleData = [
                 CONTENT_ID: "125255",
                 CONTENT_TITLE: "Mật Vụ Kingsman",
                 CONTENT_IMAGE_URL:
-                    "http://s7769.cdn.mytvnet.vn/vimages/310x465/d9/91/1e/e1/1c/c8/d91e1-pmatvukingsman-movies-mytv.jpg",
+                    "https://s7769.cdn.mytvnet.vn/vimages/310x465/d9/91/1e/e1/1c/c8/d91e1-pmatvukingsman-movies-mytv.jpg",
                 TYPE_ID: "20",
                 TYPE_GROUP: 2,
                 RECOMMENDATION: 0,
@@ -464,7 +464,7 @@ const sampleData = [
                 CONTENT_ID: "124153",
                 CONTENT_TITLE: "Trong Từng Nhịp Thở",
                 CONTENT_IMAGE_URL:
-                    "http://s7769.cdn.mytvnet.vn/vimages/310x465/86/66/65/5c/c1/10/8665c-ptrongtungnhiptho-movies-mytv.jpg",
+                    "https://s7769.cdn.mytvnet.vn/vimages/310x465/86/66/65/5c/c1/10/8665c-ptrongtungnhiptho-movies-mytv.jpg",
                 TYPE_ID: "20",
                 TYPE_GROUP: 2,
                 RECOMMENDATION: 0,
@@ -475,7 +475,7 @@ const sampleData = [
                 CONTENT_ID: "124149",
                 CONTENT_TITLE: "Thung Lũng Tội Ác - Phần 1",
                 CONTENT_IMAGE_URL:
-                    "http://s7769.cdn.mytvnet.vn/vimages/310x465/d5/56/60/0e/e2/22/d560e-pthunglungtoiacphan1-movies-mytv.jpg",
+                    "https://s7769.cdn.mytvnet.vn/vimages/310x465/d5/56/60/0e/e2/22/d560e-pthunglungtoiacphan1-movies-mytv.jpg",
                 TYPE_ID: "20",
                 TYPE_GROUP: 2,
                 RECOMMENDATION: 0,
@@ -486,7 +486,7 @@ const sampleData = [
                 CONTENT_ID: "124266",
                 CONTENT_TITLE: "Chuyện Tình Đô Thị",
                 CONTENT_IMAGE_URL:
-                    "http://s7769.cdn.mytvnet.vn/vimages/310x465/56/65/56/6c/c7/7b/5656c-pchuyentinhothi-movies-mytv.jpg",
+                    "https://s7769.cdn.mytvnet.vn/vimages/310x465/56/65/56/6c/c7/7b/5656c-pchuyentinhothi-movies-mytv.jpg",
                 TYPE_ID: "20",
                 TYPE_GROUP: 2,
                 RECOMMENDATION: 0,
@@ -497,7 +497,7 @@ const sampleData = [
                 CONTENT_ID: "124267",
                 CONTENT_TITLE: "Lời Nguyền 3",
                 CONTENT_IMAGE_URL:
-                    "http://s7769.cdn.mytvnet.vn/vimages/310x465/c3/35/51/19/98/82/c3519-ploinguyen3-movies-mytv.jpg",
+                    "https://s7769.cdn.mytvnet.vn/vimages/310x465/c3/35/51/19/98/82/c3519-ploinguyen3-movies-mytv.jpg",
                 TYPE_ID: "20",
                 TYPE_GROUP: 2,
                 RECOMMENDATION: 0,
@@ -508,7 +508,7 @@ const sampleData = [
                 CONTENT_ID: "124268",
                 CONTENT_TITLE: "Chiến Binh",
                 CONTENT_IMAGE_URL:
-                    "http://s7769.cdn.mytvnet.vn/vimages/310x465/4d/d1/16/62/29/9a/4d162-pchienbinh-movies-mytv.jpg",
+                    "https://s7769.cdn.mytvnet.vn/vimages/310x465/4d/d1/16/62/29/9a/4d162-pchienbinh-movies-mytv.jpg",
                 TYPE_ID: "20",
                 TYPE_GROUP: 2,
                 RECOMMENDATION: 0,
@@ -530,7 +530,7 @@ const sampleData = [
                 CONTENT_ID: "135913",
                 CONTENT_TITLE: "Mặt Trái Của Sự Thật",
                 CONTENT_IMAGE_URL:
-                    "http://s7769.cdn.mytvnet.vn/vimages/310x465/d1/1f/fd/dc/cf/f0/d1fdc-pmttricastht-content-mytv.jpg",
+                    "https://s7769.cdn.mytvnet.vn/vimages/310x465/d1/1f/fd/dc/cf/f0/d1fdc-pmttricastht-content-mytv.jpg",
                 TYPE_ID: "20",
                 TYPE_GROUP: 2,
                 RECOMMENDATION: 0,
@@ -541,7 +541,7 @@ const sampleData = [
                 CONTENT_ID: "124241",
                 CONTENT_TITLE: "Thiên Mệnh",
                 CONTENT_IMAGE_URL:
-                    "http://s7769.cdn.mytvnet.vn/vimages/310x465/b9/9d/da/ab/b1/12/b9dab-pthienmenh-movies-mytv.jpg",
+                    "https://s7769.cdn.mytvnet.vn/vimages/310x465/b9/9d/da/ab/b1/12/b9dab-pthienmenh-movies-mytv.jpg",
                 TYPE_ID: "20",
                 TYPE_GROUP: 2,
                 RECOMMENDATION: 0,
@@ -552,7 +552,7 @@ const sampleData = [
                 CONTENT_ID: "124149",
                 CONTENT_TITLE: "Thung Lũng Tội Ác - Phần 1",
                 CONTENT_IMAGE_URL:
-                    "http://s7769.cdn.mytvnet.vn/vimages/310x465/d5/56/60/0e/e2/22/d560e-pthunglungtoiacphan1-movies-mytv.jpg",
+                    "https://s7769.cdn.mytvnet.vn/vimages/310x465/d5/56/60/0e/e2/22/d560e-pthunglungtoiacphan1-movies-mytv.jpg",
                 TYPE_ID: "20",
                 TYPE_GROUP: 2,
                 RECOMMENDATION: 0,
@@ -563,7 +563,7 @@ const sampleData = [
                 CONTENT_ID: "128585",
                 CONTENT_TITLE: "Lâu Đài Tham Vọng",
                 CONTENT_IMAGE_URL:
-                    "http://s7769.cdn.mytvnet.vn/vimages/310x465/cf/fc/c7/75/53/37/cfc75-plauaithamvong-content-mytv.jpg",
+                    "https://s7769.cdn.mytvnet.vn/vimages/310x465/cf/fc/c7/75/53/37/cfc75-plauaithamvong-content-mytv.jpg",
                 TYPE_ID: "2",
                 TYPE_GROUP: 2,
                 RECOMMENDATION: 0,
@@ -574,7 +574,7 @@ const sampleData = [
                 CONTENT_ID: "136631",
                 CONTENT_TITLE: "Ký Ức Độc Quyền",
                 CONTENT_IMAGE_URL:
-                    "http://s7769.cdn.mytvnet.vn/vimages/310x465/ab/b6/64/47/7b/b8/ab647-pkccquyn-content-mytv.jpg",
+                    "https://s7769.cdn.mytvnet.vn/vimages/310x465/ab/b6/64/47/7b/b8/ab647-pkccquyn-content-mytv.jpg",
                 TYPE_ID: "2",
                 TYPE_GROUP: 2,
                 RECOMMENDATION: 0,
@@ -585,7 +585,7 @@ const sampleData = [
                 CONTENT_ID: "136729",
                 CONTENT_TITLE: "Câu Chuyện Showbiz: Đoàn Tụ",
                 CONTENT_IMAGE_URL:
-                    "http://s7769.cdn.mytvnet.vn/vimages/310x465/54/43/34/43/38/85/54343-pcuchuynshowbizont-content-mytv.jpg",
+                    "https://s7769.cdn.mytvnet.vn/vimages/310x465/54/43/34/43/38/85/54343-pcuchuynshowbizont-content-mytv.jpg",
                 TYPE_ID: "2",
                 TYPE_GROUP: 2,
                 RECOMMENDATION: 0,
@@ -596,7 +596,7 @@ const sampleData = [
                 CONTENT_ID: "125477",
                 CONTENT_TITLE: "Người Đàm Phán 2018",
                 CONTENT_IMAGE_URL:
-                    "http://s7769.cdn.mytvnet.vn/vimages/310x465/1a/af/fb/b6/64/48/1afb6-pnguoiamphan2018-movies-mytv.jpg",
+                    "https://s7769.cdn.mytvnet.vn/vimages/310x465/1a/af/fb/b6/64/48/1afb6-pnguoiamphan2018-movies-mytv.jpg",
                 TYPE_ID: "20",
                 TYPE_GROUP: 2,
                 RECOMMENDATION: 0,
@@ -607,7 +607,7 @@ const sampleData = [
                 CONTENT_ID: "136819",
                 CONTENT_TITLE: "Một Nén Nhang - Phần 3",
                 CONTENT_IMAGE_URL:
-                    "http://s7769.cdn.mytvnet.vn/vimages/310x465/45/5e/e2/24/48/81/45e24-pmtnnnhangphn3-content-mytv.jpg",
+                    "https://s7769.cdn.mytvnet.vn/vimages/310x465/45/5e/e2/24/48/81/45e24-pmtnnnhangphn3-content-mytv.jpg",
                 TYPE_ID: "20",
                 TYPE_GROUP: 2,
                 RECOMMENDATION: 0,
@@ -618,7 +618,7 @@ const sampleData = [
                 CONTENT_ID: "136814",
                 CONTENT_TITLE: "Đối Tác Hôn Nhân",
                 CONTENT_IMAGE_URL:
-                    "http://s7769.cdn.mytvnet.vn/vimages/310x465/7f/f5/53/38/8d/dd/7f538-pitachnnhn-content-mytv.jpg",
+                    "https://s7769.cdn.mytvnet.vn/vimages/310x465/7f/f5/53/38/8d/dd/7f538-pitachnnhn-content-mytv.jpg",
                 TYPE_ID: "20",
                 TYPE_GROUP: 2,
                 RECOMMENDATION: 0,
@@ -629,7 +629,7 @@ const sampleData = [
                 CONTENT_ID: "136813",
                 CONTENT_TITLE: "Mất Dấu 3",
                 CONTENT_IMAGE_URL:
-                    "http://s7769.cdn.mytvnet.vn/vimages/310x465/55/5b/bf/f3/38/89/55bf3-pmtdu3-content-mytv.jpg",
+                    "https://s7769.cdn.mytvnet.vn/vimages/310x465/55/5b/bf/f3/38/89/55bf3-pmtdu3-content-mytv.jpg",
                 TYPE_ID: "20",
                 TYPE_GROUP: 2,
                 RECOMMENDATION: 0,
@@ -640,7 +640,7 @@ const sampleData = [
                 CONTENT_ID: "136620",
                 CONTENT_TITLE: "Cuộc Chiến Thượng Lưu 1",
                 CONTENT_IMAGE_URL:
-                    "http://s7769.cdn.mytvnet.vn/vimages/310x465/16/61/1c/c0/08/89/161c0-pcucchinthnglu1-content-mytv.jpg",
+                    "https://s7769.cdn.mytvnet.vn/vimages/310x465/16/61/1c/c0/08/89/161c0-pcucchinthnglu1-content-mytv.jpg",
                 TYPE_ID: "20",
                 TYPE_GROUP: 2,
                 RECOMMENDATION: 0,
@@ -651,7 +651,7 @@ const sampleData = [
                 CONTENT_ID: "132019",
                 CONTENT_TITLE: "Chàng Phi Công Của Em",
                 CONTENT_IMAGE_URL:
-                    "http://s7769.cdn.mytvnet.vn/vimages/310x465/42/22/2f/f1/15/55/422f1-psitcomchangphicongcuaem-content-mytv.jpg",
+                    "https://s7769.cdn.mytvnet.vn/vimages/310x465/42/22/2f/f1/15/55/422f1-psitcomchangphicongcuaem-content-mytv.jpg",
                 TYPE_ID: "2",
                 TYPE_GROUP: 2,
                 RECOMMENDATION: 0,
@@ -673,7 +673,7 @@ const sampleData = [
                 CONTENT_ID: "185454",
                 CONTENT_TITLE: "Cụm tin về phòng, chống dịch Covid-19",
                 CONTENT_IMAGE_URL:
-                    "http://s7769.cdn.mytvnet.vn/vimages/400x225/0a/ac/c0/0a/ad/d3/0ac0a-lcmtinvphngchngdchcovid19-content-mytv.jpg",
+                    "https://s7769.cdn.mytvnet.vn/vimages/400x225/0a/ac/c0/0a/ad/d3/0ac0a-lcmtinvphngchngdchcovid19-content-mytv.jpg",
                 TYPE_ID: "41",
                 TYPE_GROUP: 3,
                 CONTENT_MOVIE: "0",
@@ -686,7 +686,7 @@ const sampleData = [
                 CONTENT_TITLE:
                     "11 tỉnh phía Nam yêu cầu người dân không ra đường sau 18h",
                 CONTENT_IMAGE_URL:
-                    "http://s7769.cdn.mytvnet.vn/vimages/400x225/46/64/48/80/0c/cb/46480-l11tnhphanamyucungidnkhngrangsau18h-content-mytv.jpg",
+                    "https://s7769.cdn.mytvnet.vn/vimages/400x225/46/64/48/80/0c/cb/46480-l11tnhphanamyucungidnkhngrangsau18h-content-mytv.jpg",
                 TYPE_ID: "41",
                 TYPE_GROUP: 3,
                 CONTENT_MOVIE: "0",
@@ -699,7 +699,7 @@ const sampleData = [
                 CONTENT_TITLE:
                     "Hà Nội yêu cầu nền tảng xe công nghệ dừng giao hàng",
                 CONTENT_IMAGE_URL:
-                    "http://s7769.cdn.mytvnet.vn/vimages/400x225/cd/d7/76/6b/bb/b2/cd76b-lhniyucunntngxecngnghdnggiaohng-content-mytv.jpg",
+                    "https://s7769.cdn.mytvnet.vn/vimages/400x225/cd/d7/76/6b/bb/b2/cd76b-lhniyucunntngxecngnghdnggiaohng-content-mytv.jpg",
                 TYPE_ID: "41",
                 TYPE_GROUP: 3,
                 CONTENT_MOVIE: "0",
@@ -712,7 +712,7 @@ const sampleData = [
                 CONTENT_TITLE:
                     "Hà Nội triển khai tiêm chủng vaccine Covid-19 cho toàn dân",
                 CONTENT_IMAGE_URL:
-                    "http://s7769.cdn.mytvnet.vn/vimages/400x225/a5/5d/d6/67/71/1a/a5d67-lhnitrinkhaitimchngvaccinecovid19chotondn-content-mytv.jpg",
+                    "https://s7769.cdn.mytvnet.vn/vimages/400x225/a5/5d/d6/67/71/1a/a5d67-lhnitrinkhaitimchngvaccinecovid19chotondn-content-mytv.jpg",
                 TYPE_ID: "41",
                 TYPE_GROUP: 3,
                 CONTENT_MOVIE: "0",
@@ -725,7 +725,7 @@ const sampleData = [
                 CONTENT_TITLE:
                     "Bộ Công thương: Đề xuất cho hàng hóa lưu thông bình thường",
                 CONTENT_IMAGE_URL:
-                    "http://s7769.cdn.mytvnet.vn/vimages/400x225/34/40/06/62/25/58/34062-lbcngthngxutchohnghaluthngbnhthng-content-mytv.jpg",
+                    "https://s7769.cdn.mytvnet.vn/vimages/400x225/34/40/06/62/25/58/34062-lbcngthngxutchohnghaluthngbnhthng-content-mytv.jpg",
                 TYPE_ID: "41",
                 TYPE_GROUP: 3,
                 CONTENT_MOVIE: "0",
@@ -738,7 +738,7 @@ const sampleData = [
                 CONTENT_TITLE:
                     "Quảng Trị: Chuẩn bị đón công dân tại các khu cách ly tập trung",
                 CONTENT_IMAGE_URL:
-                    "http://s7769.cdn.mytvnet.vn/vimages/400x225/28/80/03/35/5a/a8/28035-lqungtrchunbncngdnticckhucchlytptrung-content-mytv.jpg",
+                    "https://s7769.cdn.mytvnet.vn/vimages/400x225/28/80/03/35/5a/a8/28035-lqungtrchunbncngdnticckhucchlytptrung-content-mytv.jpg",
                 TYPE_ID: "41",
                 TYPE_GROUP: 3,
                 CONTENT_MOVIE: "0",
@@ -751,7 +751,7 @@ const sampleData = [
                 CONTENT_TITLE:
                     "Xe tải vượt ẩu trên đèo, may mắn thoát chết khi xe không lao xuống vực",
                 CONTENT_IMAGE_URL:
-                    "http://s7769.cdn.mytvnet.vn/vimages/400x225/ad/d2/23/39/90/0d/ad239-lxetivtutrnomaymnthotchtkhixekhnglaoxungvc-content-mytv.jpg",
+                    "https://s7769.cdn.mytvnet.vn/vimages/400x225/ad/d2/23/39/90/0d/ad239-lxetivtutrnomaymnthotchtkhixekhnglaoxungvc-content-mytv.jpg",
                 TYPE_ID: "41",
                 TYPE_GROUP: 3,
                 CONTENT_MOVIE: "0",
@@ -764,7 +764,7 @@ const sampleData = [
                 CONTENT_TITLE:
                     "Khinh hãi khoảnh khắc tài xế buồn ngủ, lao thẳng ô tô vào xe tải ngược chiều",
                 CONTENT_IMAGE_URL:
-                    "http://s7769.cdn.mytvnet.vn/vimages/400x225/91/17/77/7f/f2/2a/9177f-lkhinhhikhonhkhctixbunnglaothngtvoxetingcchiu-content-mytv.jpg",
+                    "https://s7769.cdn.mytvnet.vn/vimages/400x225/91/17/77/7f/f2/2a/9177f-lkhinhhikhonhkhctixbunnglaothngtvoxetingcchiu-content-mytv.jpg",
                 TYPE_ID: "41",
                 TYPE_GROUP: 3,
                 CONTENT_MOVIE: "0",
@@ -777,7 +777,7 @@ const sampleData = [
                 CONTENT_TITLE:
                     'Người đàn ông xông qua rào thép gai phong tỏa, dùng chiêu "điệu hổ ly sơn" để thoát thân',
                 CONTENT_IMAGE_URL:
-                    "http://s7769.cdn.mytvnet.vn/vimages/400x225/14/44/4a/a2/27/7b/144a2-lnginngxngquarothpgaiphongtadngchiu-content-mytv.jpg",
+                    "https://s7769.cdn.mytvnet.vn/vimages/400x225/14/44/4a/a2/27/7b/144a2-lnginngxngquarothpgaiphongtadngchiu-content-mytv.jpg",
                 TYPE_ID: "41",
                 TYPE_GROUP: 3,
                 CONTENT_MOVIE: "0",
@@ -789,7 +789,7 @@ const sampleData = [
                 CONTENT_ID: "185400",
                 CONTENT_TITLE: "Ô tô bay từ đường trên cao xuống vỡ nát",
                 CONTENT_IMAGE_URL:
-                    "http://s7769.cdn.mytvnet.vn/vimages/400x225/1f/f4/4e/e6/6d/de/1f4e6-ltbaytngtrncaoxungvnt-content-mytv.jpg",
+                    "https://s7769.cdn.mytvnet.vn/vimages/400x225/1f/f4/4e/e6/6d/de/1f4e6-ltbaytngtrncaoxungvnt-content-mytv.jpg",
                 TYPE_ID: "41",
                 TYPE_GROUP: 3,
                 CONTENT_MOVIE: "0",
@@ -801,7 +801,7 @@ const sampleData = [
                 CONTENT_ID: "185401",
                 CONTENT_TITLE: "Bé gái lớp 1 bị xe buýt kéo lê 350m trên đường",
                 CONTENT_IMAGE_URL:
-                    "http://s7769.cdn.mytvnet.vn/vimages/400x225/6c/ce/e6/67/7a/a0/6ce67-lbgilp1bxebutkol350mtrnng-content-mytv.jpg",
+                    "https://s7769.cdn.mytvnet.vn/vimages/400x225/6c/ce/e6/67/7a/a0/6ce67-lbgilp1bxebutkol350mtrnng-content-mytv.jpg",
                 TYPE_ID: "41",
                 TYPE_GROUP: 3,
                 CONTENT_MOVIE: "0",
@@ -813,7 +813,7 @@ const sampleData = [
                 CONTENT_ID: "185399",
                 CONTENT_TITLE: "Nữ tài xế lái Audi chồm lên ô tô khác",
                 CONTENT_IMAGE_URL:
-                    "http://s7769.cdn.mytvnet.vn/vimages/400x225/61/1d/de/eb/b6/6e/61deb-lntixliaudichmlntkhc-content-mytv.png",
+                    "https://s7769.cdn.mytvnet.vn/vimages/400x225/61/1d/de/eb/b6/6e/61deb-lntixliaudichmlntkhc-content-mytv.png",
                 TYPE_ID: "41",
                 TYPE_GROUP: 3,
                 CONTENT_MOVIE: "0",
